@@ -1,2 +1,4 @@
+
 # Cozom Health App
-This is the initial setup for the Cozom Health App project.
+
+This is a simple Flask-based health app for demonstration.
